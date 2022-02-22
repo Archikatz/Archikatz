@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Archikatz
-- 👀 I’m interested in new twchnologies
+- 👀 I’m interested in new technologies
 - 🌱 I’m currently learning aout APIS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
